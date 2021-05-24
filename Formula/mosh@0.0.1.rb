@@ -2,7 +2,7 @@ class MoshAT001 < Formula
   desc "Remote terminal application"
   homepage "https://mosh.org"
 
-  head "https://github.com/Nextdoor/mosh.git", :revision => "ec356943572bf25024dad9ec008d911374c6c63b"
+  head "https://github.com/Nextdoor/mosh.git", :revision => "7d0ce3209959462a6c281cd7a1a8a314296f8789"
   head do
     url "https://github.com/Nextdoor/mosh.git", :shallow => false
 
