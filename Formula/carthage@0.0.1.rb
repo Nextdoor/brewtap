@@ -7,7 +7,7 @@ class CarthageAT001 < Formula
 
   bottle do
     root_url "https://github.com/Nextdoor/Carthage/releases/download/0.36.0-0.0.1"
-    sha256 cellar: :any, catalina: "666938dd5508ec5868a3f54e927c8fa6a78a84d84d8885bed805548f6a09701b"
+    sha256 cellar: :any, catalina: "067440f6b9f8ab59daa3952f19ff6e9919e15db582d541d33f45eff83b880b12"
   end
 
   depends_on xcode: ["10.0", :build]
